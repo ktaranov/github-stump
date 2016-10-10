@@ -1,4 +1,8 @@
 # GitHub Stump
+<a name="header01"></a>
+<a name="header02"></a>
+<a name="header03"></a>
+
 [![licence badge]][licence]
 [![stars badge]][stars]
 [![forks badge]][forks]
@@ -16,6 +20,11 @@
 
 Useful stump for new GitHub repository. Just copy or download and start your new repo.
 
+Navigation
+ - [Repo structure](#repo-structure)
+ - [GitHub Resources](#github-resources)
+ - [License](#license)
+
 
 ## Repo structure
  - [.github](/.github)
@@ -27,6 +36,8 @@ Useful stump for new GitHub repository. Just copy or download and start your new
  - [LICENSE.md](/LICENSE.md)
  - [README.md](/README.md)
 
+[*Back to top*](#header01)
+
 
 ## GitHub Resources
  - [GitHub Resources for Beginners](https://dzone.com/articles/github-resources-for-beginners)
@@ -36,8 +47,12 @@ Useful stump for new GitHub repository. Just copy or download and start your new
  - [Git and GitHub Secrets (Zach Holman)](http://confreaks.tv/videos/aloharuby2012-git-and-github-secrets)
  - [More Git and GitHub Secrets (Zach Holman)](https://vimeo.com/72955426)
  - [GitHub Help](https://help.github.com/)
- - [Эффективное использование Github](https://habrahabr.ru/company/2gis/blog/306166/
+ - [Эффективное использование Github](https://habrahabr.ru/company/2gis/blog/306166/)
+
+[*Back to top*](#header02)
 
 
 ## License
 [MIT](/LICENSE.md)
+
+[*Back to top*](#header03)
