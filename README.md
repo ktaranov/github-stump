@@ -1,0 +1,43 @@
+# GitHub Stump
+[![licence badge]][licence]
+[![stars badge]][stars]
+[![forks badge]][forks]
+[![issues badge]][issues]
+
+[licence badge]:https://img.shields.io/badge/license-MIT-blue.svg
+[stars badge]:https://img.shields.io/github/stars/ktaranov/github-stump.svg
+[forks badge]:https://img.shields.io/github/forks/ktaranov/github-stump.svg
+[issues badge]:https://img.shields.io/github/issues/ktaranov/github-stump.svg
+
+[licence]:https://github.com/ktaranov/github-stump/blob/master/LICENSE.md
+[stars]:https://github.com/ktaranov/github-stump/stargazers
+[forks]:https://github.com/ktaranov/github-stump/network
+[issues]:https://github.com/ktaranov/github-stump/issues
+
+Useful stump for new GitHub repository. Just copy or download and start your new repo.
+
+
+## Repo structure
+ - [.github](/.github)
+   - [ISSUE_TEMPLATE.md](/.github/ISSUE_TEMPLATE.md)
+   - [PULL_REQUEST_TEMPLATE.md](/.github/PULL_REQUEST_TEMPLATE.md)
+ - [.gitattributes](/.gitattributes)
+ - [.gitignore](/.gitattributes)
+ - [CONTRIBUTING.md](/CONTRIBUTING.md)
+ - [LICENSE.md](/LICENSE.md)
+ - [README.md](/README.md)
+
+
+## GitHub Resources
+ - [GitHub Resources for Beginners](https://dzone.com/articles/github-resources-for-beginners)
+ - [Cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
+ - [Awesome Github](https://github.com/Kikobeats/awesome-github)
+ - [Github Cheat Sheet Хабрахабр](https://habrahabr.ru/post/219219/)
+ - [Git and GitHub Secrets (Zach Holman)](http://confreaks.tv/videos/aloharuby2012-git-and-github-secrets)
+ - [More Git and GitHub Secrets (Zach Holman)](https://vimeo.com/72955426)
+ - [GitHub Help](https://help.github.com/)
+ - [Эффективное использование Github](https://habrahabr.ru/company/2gis/blog/306166/
+
+
+## License
+[MIT](/LICENSE.md)
