@@ -48,6 +48,7 @@ Navigation
  - [More Git and GitHub Secrets (Zach Holman)](https://vimeo.com/72955426)
  - [GitHub Help](https://help.github.com/)
  - [Эффективное использование Github](https://habrahabr.ru/company/2gis/blog/306166/)
+ - [Try GIT in Browser](https://try.github.io/)
  - [Bash: Основы командной строки](https://ru.hexlet.io/courses/bash/)
 
 [*Back to top*](#header02)
