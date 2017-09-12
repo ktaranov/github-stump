@@ -31,7 +31,7 @@ Navigation
    - [ISSUE_TEMPLATE.md](/.github/ISSUE_TEMPLATE.md)
    - [PULL_REQUEST_TEMPLATE.md](/.github/PULL_REQUEST_TEMPLATE.md)
  - [.gitattributes](/.gitattributes)
- - [.gitignore](/.gitattributes)
+ - [.gitignore](/.gitignore)
  - [CONTRIBUTING.md](/CONTRIBUTING.md)
  - [LICENSE.md](/LICENSE.md)
  - [README.md](/README.md)
@@ -48,6 +48,7 @@ Navigation
  - [More Git and GitHub Secrets (Zach Holman)](https://vimeo.com/72955426)
  - [GitHub Help](https://help.github.com/)
  - [Эффективное использование Github](https://habrahabr.ru/company/2gis/blog/306166/)
+ - [Bash: Основы командной строки](https://ru.hexlet.io/courses/bash/)
 
 [*Back to top*](#header02)
 
