@@ -50,8 +50,15 @@ Navigation
  - [Эффективное использование Github](https://habrahabr.ru/company/2gis/blog/306166/)
  - [Try GIT in Browser](https://try.github.io/)
  - [Bash: Основы командной строки](https://ru.hexlet.io/courses/bash/)
+ - [Github Guides](https://guides.github.com)
 
 [*Back to top*](#header02)
+
+
+## Markdown Wiki
+ - [Mastering markdown](https://guides.github.com/features/mastering-markdown/)
+ - [Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+ - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
 ## License
