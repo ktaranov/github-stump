@@ -1,7 +1,4 @@
 # GitHub Stump
-<a name="header01"></a>
-<a name="header02"></a>
-<a name="header03"></a>
 
 [![licence badge]][licence]
 [![stars badge]][stars]
@@ -36,7 +33,7 @@ Navigation
  - [LICENSE.md](/LICENSE.md)
  - [README.md](/README.md)
 
-[*Back to top*](#header01)
+**[⬆ back to top](#github-stump)**
 
 
 ## GitHub Resources
@@ -52,7 +49,7 @@ Navigation
  - [Bash: Основы командной строки](https://ru.hexlet.io/courses/bash/)
  - [Github Guides](https://guides.github.com)
 
-[*Back to top*](#header02)
+**[⬆ back to top](#github-stump)**
 
 
 ## Markdown Wiki
@@ -64,4 +61,4 @@ Navigation
 ## License
 [MIT](/LICENSE.md)
 
-[*Back to top*](#header03)
+**[⬆ back to top](#github-stump)**
