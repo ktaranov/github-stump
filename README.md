@@ -48,13 +48,14 @@ Navigation
  - [Try GIT in Browser](https://try.github.io/)
  - [Bash: Основы командной строки](https://ru.hexlet.io/courses/bash/)
  - [Github Guides](https://guides.github.com)
+ - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
 
 **[⬆ back to top](#github-stump)**
 
 
 ## Markdown Wiki
+ - [Markdown - Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
  - [Mastering markdown](https://guides.github.com/features/mastering-markdown/)
- - [Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
  - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
