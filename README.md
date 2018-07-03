@@ -49,6 +49,7 @@ Navigation
  - [Bash: Основы командной строки](https://ru.hexlet.io/courses/bash/)
  - [Github Guides](https://guides.github.com)
  - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
+ - [GitHub About issue and pull request templates](https://help.github.com/articles/about-issue-and-pull-request-templates/)
 
 **[⬆ back to top](#github-stump)**
 
