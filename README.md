@@ -36,7 +36,7 @@ Navigation
 **[⬆ back to top](#github-stump)**
 
 
-## GitHub Resources
+## GitHub and Git Resources
  - [GitHub Resources for Beginners](https://dzone.com/articles/github-resources-for-beginners)
  - [Cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
  - [Awesome Github](https://github.com/Kikobeats/awesome-github)
@@ -50,6 +50,7 @@ Navigation
  - [Github Guides](https://guides.github.com)
  - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
  - [GitHub About issue and pull request templates](https://help.github.com/articles/about-issue-and-pull-request-templates/)
+ - [Pro Git book](https://git-scm.com/book/en/v2)
 
 **[⬆ back to top](#github-stump)**
 
@@ -61,6 +62,6 @@ Navigation
 
 
 ## License
-[MIT](/LICENSE.md)
+[MIT](/LICENSE)
 
 **[⬆ back to top](#github-stump)**
