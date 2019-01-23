@@ -62,6 +62,7 @@ Alt-H2
 
 
 <a name="emphasis"/>
+
 ## Emphasis
 
 ```no-highlight
@@ -86,6 +87,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 
 <a name="lists"/>
+
 ## Lists
 
 (In this example, leading and trailing spaces are shown with with dots: ⋅)
@@ -130,6 +132,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 
 <a name="links"/>
+
 ## Links
 
 There are two ways to create links.
@@ -184,6 +187,7 @@ Some text to show that the reference links can follow later.
 
 
 <a name="images"/>
+
 ## Images
 
 ```no-highlight
@@ -212,6 +216,7 @@ Reference-style:
 
 
 <a name="code"/>
+
 ## Code and Syntax Highlighting
 
 Code blocks are part of the Markdown spec, but syntax highlighting isn't. However, many renderers -- like Github's and *Markdown Here* -- support syntax highlighting. Which languages are supported and how those language names should be written will vary from renderer to renderer. *Markdown Here* supports highlighting for dozens of languages (and not-really-languages, like diffs and HTTP headers); to see the complete list, and how to write the language names, see the [highlight.js demo page](http://softwaremaniacs.org/media/soft/highlight/test.html).
@@ -261,6 +266,7 @@ But let's throw in a <b>tag</b>.
 
 
 <a name="tables"/>
+
 ## Tables
 
 Tables aren't part of the core Markdown spec, but they are part of GFM and *Markdown Here* supports them. They are an easy way of adding tables to your email -- a task that would otherwise require copy-pasting from another application.
@@ -303,6 +309,7 @@ Markdown | Less | Pretty
 
 
 <a name="blockquotes"/>
+
 ## Blockquotes
 
 ```no-highlight
@@ -325,6 +332,7 @@ Quote break.
 
 
 <a name="html"/>
+
 ## Inline HTML
 
 You can also use raw HTML in your Markdown, and it'll mostly work pretty well. 
@@ -351,6 +359,7 @@ You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
 
 
 <a name="hr"/>
+
 ## Horizontal Rule
 
 ```
@@ -387,6 +396,7 @@ Underscores
 
 
 <a name="lines"/>
+
 ## Line Breaks
 
 My basic recommendation for learning how line breaks work is to experiment and discover -- hit &lt;Enter&gt; once (i.e., insert one newline), then hit it twice (i.e., insert two newlines), see what happens. You'll soon learn to get what you want. "Markdown Toggle" is your friend. 
@@ -415,6 +425,7 @@ This line is only separated by a single newline, so it's a separate line in the 
 
 
 <a name="videos"/>
+
 ## YouTube Videos
 
 They can't be added directly but you can add an image with a link to the video like this:
@@ -435,7 +446,10 @@ Or, in pure Markdown, but losing the image sizing and border:
 
 
 <a name="shortcuts"/>
+
+
 ## Keyboard shortcuts
+
 * <kbd>Ctrl</kbd> + <kbd>T</kbd> : New tab dialog (maybe you want to open cmd as admin?)
 * <kbd>Ctrl</kbd> + <kbd>W</kbd> : Close tab
 * <kbd>Ctrl</kbd> + <kbd>D</kbd> : Close tab (if pressed on empty command)
