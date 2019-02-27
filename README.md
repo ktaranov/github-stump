@@ -25,12 +25,12 @@ Navigation
 
 ## Repo structure
  - [.github](/.github)
-   - [ISSUE_TEMPLATE.md](/.github/ISSUE_TEMPLATE.md)
-   - [PULL_REQUEST_TEMPLATE.md](/.github/PULL_REQUEST_TEMPLATE.md)
+   - [bug_report.md](/.github/bug_report.md)
+   - [feature_request.md](/.github/feature_request.md)
  - [.gitattributes](/.gitattributes)
  - [.gitignore](/.gitignore)
  - [CONTRIBUTING.md](/CONTRIBUTING.md)
- - [LICENSE.md](/LICENSE.md)
+ - [LICENSE](/LICENSE)
  - [README.md](/README.md)
 
 **[⬆ back to top](#github-stump)**
