@@ -51,6 +51,9 @@ Navigation
  - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
  - [GitHub About issue and pull request templates](https://help.github.com/articles/about-issue-and-pull-request-templates/)
  - [Pro Git book](https://git-scm.com/book/en/v2)
+ - [Git Command Explorer - Find the right commands you need without digging through the web](https://gitexplorer.com/)
+ - [git-history - Quickly browse the history of a file from any git repository](https://github.com/pomber/git-history)
+ - [How to teach Git](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html)
 
 **[⬆ back to top](#github-stump)**
 
