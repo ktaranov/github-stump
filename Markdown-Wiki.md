@@ -8,19 +8,20 @@ For more complete info, see:
 Note that there is also a [Cheatsheet specific to Markdown Here](./Markdown-Here-Cheatsheet) if that's what you're looking for. You can also check out [more Markdown tools](./Other-Markdown-Tools).
 
 ## Table of Contents
- - [Headers](#headers)
- - [Emphasis](#emphasis)
- - [Lists](#lists)
- - [Links](#links)
- - [Images](#images)
- - [Code and Syntax Highlighting](#code)
- - [Tables](#tables)
- - [Blockquotes](#blockquotes)
- - [Inline HTML](#html)
- - [Horizontal Rule](#hr)
- - [Line Breaks](#lines)
- - [YouTube Videos](#videos)
- - [Keyboard shortcuts](#shortcuts)
+1. [Headers](#headers)
+1. [Emphasis](#emphasis)
+1. [Lists](#lists)
+1. [Complex Lists](#complex-lists)
+1. [Links](#links)
+1. [Images](#images)
+1. [Code and Syntax Highlighting](#code)
+1. [Tables](#tables)
+1. [Blockquotes](#blockquotes)
+1. [Inline HTML](#html)
+1. [Horizontal Rule](#hr)
+1. [Line Breaks](#lines)
+1. [YouTube Videos](#videos)
+1. [Keyboard shortcuts](#shortcuts)
 
 
 <a name="headers"/>
@@ -130,6 +131,37 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 **[⬆ back to top](#table-of-contents)**
 
+
+<a name="complex-lists"/>
+
+## Complex Lists
+
+### Ordered list with simple `1.` method:
+```
+1. First element
+1. Second element
+1. Third element
+```
+
+become:
+```
+1. First element
+2. Second element
+3. Third element
+```
+
+### Complex ordered list with many sub levels
+1. First level - First element
+2. First level - Second element:
+    1. Second level - First Sub Element
+        1. Third level - First Sub Sub Element
+            1. Fourth level - First Sub Sub Sub Element
+            2. Fourth level - Second Sub Sub Sub  Element
+        2. Third level - Second Sub Sub Element
+    2. Second level - Second Sub Element
+3. First level - Third element:
+    1. Second level - First Sub Element
+    2. Second level - Second Sub Element
 
 <a name="links"/>
 
@@ -281,8 +313,7 @@ Colons can be used to align columns.
 | zebra stripes | are neat      |    $1 |
 
 There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
+The outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.
 
 Markdown | Less | Pretty
 --- | --- | ---
@@ -292,7 +323,7 @@ Markdown | Less | Pretty
 
 Colons can be used to align columns.
 
-| Tables        | Are           | Cool |
+| Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
