@@ -481,6 +481,14 @@ Or, in pure Markdown, but losing the image sizing and border:
 
 ## Keyboard shortcuts
 
+For beutiful keyboard shortcuts you can use `<kbd></kbd>` tag:
+
+```
+* <kbd>Ctrl</kbd> + <kbd>T</kbd> : New tab dialog (maybe you want to open cmd as admin?)
+* <kbd>Ctrl</kbd> + <kbd>W</kbd> : Close tab
+* <kbd>Ctrl</kbd> + <kbd>D</kbd> : Close tab (if pressed on empty command)
+```
+
 * <kbd>Ctrl</kbd> + <kbd>T</kbd> : New tab dialog (maybe you want to open cmd as admin?)
 * <kbd>Ctrl</kbd> + <kbd>W</kbd> : Close tab
 * <kbd>Ctrl</kbd> + <kbd>D</kbd> : Close tab (if pressed on empty command)
